@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajaykumar Chavan
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Advanced Excel, SQL, Tableau, Power BI, Statistics, Python
+- 🌱 I’m currently learned Advanced Excel, SQL, Tableau, Power BI, Statistics, Python
 - 💞️ I’m looking to collaborate on Data Analyst Project
 - 📫 How to reach me ajaykumarchavan92@gmail.com
 
